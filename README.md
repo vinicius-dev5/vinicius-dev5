@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### olá 👋 ! eu sou vinicius costa.
 
 
@@ -30,6 +28,16 @@ Sou apaixonado por resolver problemas e otimizar processos, com habilidades em a
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+
+## FERRAMENTA DE TRABALHO 
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+</div>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
 

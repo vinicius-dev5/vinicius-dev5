@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 ### olá 👋 ! eu sou vinicius costa.
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-costa-038984207.com)
+
+
+## Resumo Profissional
+
+Sou um profissional iniciante em Análise e Desenvolvimento de Sistemas, se formando em [ Análise de Sistemas] e uma sólida compreensão de conceitos fundamentais de programação e desenvolvimento de software. Tenho experiência prática em [mencionar linguagens de programação ou ferramentas que você conhece, como PHP, Python, JavaScript, HTML5, CSS etc.], adquirida por meio de projetos acadêmicos e estágios. 
+
+Sou apaixonado por resolver problemas e otimizar processos, com habilidades em análise de requisitos e trabalho em equipe. Estou sempre em busca de aprender novas tecnologias e práticas ágeis para contribuir efetivamente em projetos desafiadores. Estou pronto para iniciar minha carreira e trazer uma perspectiva inovadora para a equipe.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
  ## TECNOLOGIAS QUE EU USO NO MEU DIA A DIA
 <div style="display: inline_block"><br/>

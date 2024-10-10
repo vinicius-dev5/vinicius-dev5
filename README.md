@@ -5,7 +5,9 @@
 
 ## Resumo Profissional
 
-Sou um profissional iniciante em Análise e Desenvolvimento de Sistemas, se formando em [ Análise de Sistemas] e uma sólida compreensão de conceitos fundamentais de programação e desenvolvimento de software. Tenho experiência prática em [mencionar linguagens de programação ou ferramentas que você conhece, como PHP, Python, JavaScript, HTML5, CSS etc.], adquirida por meio de projetos acadêmicos e estágios. 
+Resumo Profissional
+
+Sou um profissional em Análise e Desenvolvimento de Sistemas, se formando  em [ ADS ] e uma sólida compreensão de conceitos fundamentais de programação e desenvolvimento de software. Tenho experiência prática em  linguagens de programação E ferramentas como PHP, Python, JavaScript, HTML5, CSS  . adquirida por meio de projetos acadêmicos e estágios. 
 
 Sou apaixonado por resolver problemas e otimizar processos, com habilidades em análise de requisitos e trabalho em equipe. Estou sempre em busca de aprender novas tecnologias e práticas ágeis para contribuir efetivamente em projetos desafiadores. Estou pronto para iniciar minha carreira e trazer uma perspectiva inovadora para a equipe.
 
